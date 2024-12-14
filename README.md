@@ -34,7 +34,7 @@ https://github.com/Rakeshmatta369/spur-fit-frontend
 - Navigate to the project folder and install the dependencies:
 
 ```bash
-cd workout-builder
+cd spur-fit-frontend
 npm install
 ```
 
